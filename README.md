@@ -2,6 +2,7 @@
 <img  src="https://github-readme-stats.vercel.app/api?username=GYPpro&show_icons=true" align='right'/>
   <article class="left_article">
       <h4> Coding to our Arcology </h4>
+      <p> 追求去设施化下的现代架构 </p>
       <h3>About Me</h3>
       <p> ACMer | 全栈 | Transformer | moding | 无漏净子 </p>
       <p> <a href="https://codeforces.com/profile/GYPplus">codeforces</a> | <a href="https://www.zhihu.com/people/gyp-30">知乎</a> | <a href="http://blog.arcol.site/">Blog</a> </p>
