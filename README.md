@@ -1,8 +1,21 @@
-<img
+<table>
+  <tr>
+    <td align="center" style="padding:0;width:50%;">
+      <img
         align="center"
         style="padding:0;"
-        src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=CharlesPikachu&layout=compact&show_icons=true&hide_border=true&count_private=true"
+        src="https://github-readme-stats-fast.vercel.app/api?username=GYPp1us&show_icons=true&hide_border=false&hide_title=true&count_private=true"
       />
+    </td>
+    <td align="center" style="padding:0;width:50%;">
+      <img
+        align="center"
+        style="padding:0;"
+        src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=GYPp1us&layout=compact&show_icons=true&hide_border=true&count_private=true"
+      />
+    </td>
+  </tr>
+</table>
   <article class="left_article">
       <h4> Coding to our Arcology </h4>
       <p> 追求去设施化下的现代架构 </p>
